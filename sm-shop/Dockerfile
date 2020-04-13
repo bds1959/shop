@@ -1,5 +1,5 @@
 FROM tomcat:8.5.40-jre8
-MAINTAINER shopizerecomm
+MAINTAINER Murali Krishna Reddy
 
 VOLUME /tmp
 
